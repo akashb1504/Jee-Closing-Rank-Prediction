@@ -58,7 +58,7 @@ Due to dynamic admission cutoffs and reservation policies, students often strugg
 
 ## 📊 Visualizations
 
-Key insights from EDA (refer notebook/ppt):
+Key insights from EDA (refer notebook):
 - 📈 **Year-wise Closing Rank Trend:** Shows general rise over time.
 - 🏫 **Top Institutes:** IIT Delhi & IIT Bombay most competitive.
 - 🧑‍🎓 **Category-wise Analysis:** Reserved categories have lower ranks.
