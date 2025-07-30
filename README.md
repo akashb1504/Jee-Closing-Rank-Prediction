@@ -41,9 +41,9 @@ Due to dynamic admission cutoffs and reservation policies, students often strugg
 ### ✅ Machine Learning Models
 | Model | R² Score | MAE |
 |-------|----------|-----|
-| Linear Regression | ~0.85 | Moderate |
-| Random Forest | ↑ | Improved |
-| **XGBoost** | ↑↑ | Very Good |
+| Linear Regression | 0.9760 | 403.93 |
+| Random Forest | 0.9838 | 263.54 |
+| **XGBoost** | 0.9875 | 240.42 |
 | **LightGBM** | **0.9878** | **240.88** |
 
 ### 🤖 Deep Learning Model
